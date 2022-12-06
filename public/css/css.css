@@ -1,0 +1,22 @@
+.bloco{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+}
+
+/*------------------------------Tela de tabela do sensor------------------------------*/
+.txt-tabela {
+    color: #00365c;
+}
+
+.txt-tabela2 {
+    font-weight: bold;
+}
+
+.tabela {
+    text-align: center;
+}
+
+.espacamento{
+    margin: 3%;
+}
